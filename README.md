@@ -57,4 +57,4 @@ Execute the program
 </html>
 ```
 # OUPUT
-![Screenshot 2023-10-25 100219](https://github.com/Monishsaravanan/ODD2023-WT-Ex-03-Timetable/assets/145743227/5a7911a6-b1a8-4cd6-b177-acd9047013bb)
+![Screenshot 2023-11-15 052502](https://github.com/Monishsaravanan/ODD2023-WT-Ex-03-Timetable/assets/145743227/9508f2f4-e1d9-414a-854f-f5ad05e339c4)
